@@ -1,4 +1,13 @@
 Hello everyone, this is just a simple GIT test project.
 
+The project now supports cmake!
+
+mkdir testgit-build
+cd testgit-build
+cmake ../testgit
+make
+
+
+
 Carlo Pastorino.
 
